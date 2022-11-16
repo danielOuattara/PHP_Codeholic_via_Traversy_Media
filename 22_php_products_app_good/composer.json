@@ -1,0 +1,15 @@
+{
+    "name": "daniel/22_php_products_app_good",
+    "authors": [
+        {
+            "name": "danielOuattara",
+            "email": "daniel.ouattara@gmx.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
